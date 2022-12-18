@@ -73,6 +73,8 @@ I'm currently in stage 2 of the Engineering Design Process, which is **researchi
 
 Skills that I have developed in this blog are *how to learn* and *how to read*. When I was looking through the kaboom playground demos, I saw many parts of kaboom, but there were no explanations on what each code did. I had to reference the documentation in order to further understand what the code was meant to do. In doing this, I learned and tinkered with the components that would be useful when I start to make a platformer game.
 
+My winter break goal would be to add more onto my small project. At the moment the score on the top left doesn't increase. I'll add more scenes to my small project so that I would be able to add onto the level score as the player progresses through the levels. I will also add more sprites and little obstacles in the levels to make it more challenging.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
