@@ -1,5 +1,5 @@
 # Entry 3
-##### 2/13/23
+## Tinkering With My Tool Pt.2 2/13/23
 
 As the weeks passed, I have been tinkering more with my tool kaboom. I decided to tinker kaboom based on another tutorial because I felt that the YouTube tutorial didn't explain the scene-changing as well.I followed through a [tutorial](https://kaboomjs.com/doc/21-scenes) on kaboom that involved making many levels. I read through the tutorial step-by-step and coded along, while taking notes on the key components I might need for my freedom project.
 
@@ -31,6 +31,10 @@ player.onCollide("portal", () => {
     }
 })
 ```
+I took note of the onCollide() for the portal because it had a conditional that checked to see if there were more levels after the current level the player was in, and used that to determine which scene to go to next. 
+
+I also learned how to make the screen go to a lose screen if the player fell off the platform: 
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
