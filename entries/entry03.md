@@ -33,8 +33,23 @@ player.onCollide("portal", () => {
 ```
 I took note of the onCollide() for the portal because it had a conditional that checked to see if there were more levels after the current level the player was in, and used that to determine which scene to go to next. 
 
-I also learned how to make the screen go to a lose screen if the player fell off the platform: 
+I also learned how to make the screen go to a lose screen if the player fell off the platform:
+```js
+// if player falls off the platform, it would go to the lose scene
+player.onUpdate(() => {
+    if (player.pos.y >= 480) {
+        go("lose")
+    }
+})
+```
 
+Learning to make the screen to a lose screen when the player falls off the platform is important because or else the player would keep falling infinitely.
+
+I'm still in stage 2 of the Engineering Design Process, which is **researching the problem**. I continued to research about my tool kaboom, and took down things that I know I would use in my freedom project game.
+
+Skills that I have developed in this blog are *time management* as well as *how to google*. I had to organize my time wisely in order for me to be able to tinker and learn enough about my tool, especially making levels. I tried to tinker as much as I could and to be able to understand things more fully I had to take additional time to gain a deeper understanding. Not only that, when I was googling I googled more specific things, like "levels in kaboomjs", which brought me to the kaboom website tutorial I followed. 
+
+I plan on adding more levels onto what I had gotten from the kaboomjs tutorial. I feel like that would help me with what I need to know in order to make my own platformer game. I might also try to add more sprites and challenges onto the game to customize the code even more.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
