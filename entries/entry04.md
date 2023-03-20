@@ -21,7 +21,9 @@ I plan to use `loadSound()` for many things in game after my MVP. I could have t
 
 I'm in stage 3 of the Engineering Design Process (EDP), which is brainstorming possible solutions. Using what my partner and I learned the past months about Kaboom, we were now able to use it to brainstorm and create our platformer game.
 
-Skills that I have developed in this blog are *collaboration* and *time management*. My partner and I collaborated a ton in working on the sprite, coming up with the theme and what the sprites were going to be. It was extremely important in this blog that my partner and I manage my time well because we had to accomplish our MVP by a due date. For our MVP plan, we plan everything accordingly and with detailed dates to ensure that we wouldn't be procrasinating till last minute.
+Skills that I have developed in this blog are *collaboration* and *time management*. My partner and I collaborated a ton in working on the sprite, coming up with the theme and what the sprites were going to be. It was extremely important in this blog that my partner and I manage my time well because we had to accomplish our MVP by a due date. For our MVP plan, we planned everything accordingly and with detailed dates to ensure that we wouldn't be procrasinating till last minute.
+
+My partner and I plan to further progress with our MVP, hopefully having time to add things beyond the requirements.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
