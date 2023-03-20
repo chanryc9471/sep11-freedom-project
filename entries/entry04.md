@@ -1,7 +1,7 @@
 # Entry 4
 ## Continued Learning & Start of MVP 3/20/23
 
-  From my previous blog entry to now, I have been continuing to learn my tool, but I have started on the minimum viable product (MVP) for my freedom project. My partner and I made a detailed plan/schedule for our MVP in order for us to not fall behind and stay on the right track. So far, my partner and I have followed the schedule to make the sprites for our game. We thought of a theme for our game, which was cats. The blocks, food, main sprite, enemy, and door have been created using [Pixilart](https://www.pixilart.com/). Here are the sprites that me and my partner made: <br>
+  From my previous blog entry to now, I have been continuing to learn my tool, but I have started on the minimum viable product (MVP) for my freedom project. My partner and I made a detailed plan/schedule for our MVP so that we would not fall behind and stay on the right track. So far, my partner and I have followed the schedule to make the sprites for our game. We thought of a theme for our game, which was cats. The blocks, food, main sprite, enemy, and door have been created using [Pixilart](https://www.pixilart.com/). Here are the sprites that my partner and I made: <br>
 <img width="225" alt="mainsprite-cat" src="https://user-images.githubusercontent.com/91750491/226227423-c0cc7786-e8bc-4ae4-bd85-eb8a96cb3985.png">
 <img width="225" alt="door-computer" src="https://user-images.githubusercontent.com/91750491/226227782-211c9429-13f1-48fc-8c8c-945312d3802c.png">
 <img width="150" alt="enemy-cat" src="https://user-images.githubusercontent.com/91750491/226227820-293a98b1-6dac-4947-bfc4-715b86d5b070.png">
@@ -11,17 +11,17 @@
 <img width="215" alt="orange-block" src="https://user-images.githubusercontent.com/91750491/226228384-89a755cc-33af-4f67-95c6-5814a6b36299.png">
 <img width="200" alt="food" src="https://user-images.githubusercontent.com/91750491/226228463-219abefd-ea77-45e1-80c6-06ab8604872c.png">
 
-For the learning component, I wanted to learn the `loadSound()` component of kaboom in order to have that in my freedom project. I used the kaboom website to learn the [loadSound component](https://kaboomjs.com/#loadSound). I learned that to load a sound you would need to give it a name and the file, which could be a link or a file source in the directory:
+For the learning component, I wanted to learn the `loadSound()` component of kaboom so that I could have that in my freedom project. I used the kaboom website to learn the [loadSound component](https://kaboomjs.com/#loadSound). I learned that to load a sound you would need to give it a name and the file, which could be a link or a file source in the directory:
 ```js
 loadSound("soundName", "file source in the directory")
 // or
 loadSound("soundName", "link to the sound")
 ```
-I plan to use `loadSound()` for many things in game after my MVP. I could have the game make a sound whenever the user presses the space button, or a sound whenever the user sprite touched the door to the next level.
+I plan to use `loadSound()` for many things in the game after my MVP. I could have the game make a sound whenever the user presses the space button, or a sound whenever the user sprite touched the door to the next level.
 
-I'm in stage 3 of the Engineering Design Process (EDP), which is brainstorming possible solutions. Using what my partner and I learned the past months about Kaboom, we were now able to use it to brainstorm and create our platformer game.
+I'm in stage 3 of the Engineering Design Process (EDP), which is brainstorming possible solutions. Using what my partner and I learned in the past months about Kaboom, we were now able to use it to brainstorm and create our platformer game.
 
-Skills that I have developed in this blog are *collaboration* and *time management*. My partner and I collaborated a ton in working on the sprite, coming up with the theme and what the sprites were going to be. It was extremely important in this blog that my partner and I manage my time well because we had to accomplish our MVP by a due date. For our MVP plan, we planned everything accordingly and with detailed dates to ensure that we wouldn't be procrasinating till last minute.
+Skills that I have developed in this blog are *collaboration* and *time management*. My partner and I collaborated a ton in working on the sprite, coming up with the theme and what the sprites were going to be. It was extremely important in this blog that my partner and I manage our time well because we had to accomplish our MVP by the due date. For our MVP plan, we planned everything accordingly and with detailed dates to ensure that we wouldn't be procrastinating till the last minute.
 
 My partner and I plan to further progress with our MVP, hopefully having time to add things beyond the requirements.
 
