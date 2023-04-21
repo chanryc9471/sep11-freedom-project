@@ -2,9 +2,9 @@
 ## Continued Learning & Start of MVP 3/20/23
 
   From my previous blog entry to now, I have been continuing to learn my tool, but I have started on the minimum viable product (MVP) for my freedom project. My partner and I made a detailed plan/schedule for our MVP so that we would not fall behind and stay on the right track. So far, my partner and I have followed the schedule to make the sprites for our game. We thought of a theme for our game, which was cats. The blocks, food, main sprite, enemy, and door have been created using [Pixilart](https://www.pixilart.com/). Here are the sprites that my partner and I made: <br>
-<img width="225" alt="mainsprite-cat" src="https://user-images.githubusercontent.com/91750491/226227423-c0cc7786-e8bc-4ae4-bd85-eb8a96cb3985.png">
+<img width="190" alt="char" src="https://user-images.githubusercontent.com/91750491/233732662-561a88ca-c1e8-4f62-9c67-35357612c275.png">
 <img width="225" alt="door-computer" src="https://user-images.githubusercontent.com/91750491/226227782-211c9429-13f1-48fc-8c8c-945312d3802c.png">
-<img width="150" alt="enemy-cat" src="https://user-images.githubusercontent.com/91750491/226227820-293a98b1-6dac-4947-bfc4-715b86d5b070.png">
+<img width="220" alt="toto" src="https://user-images.githubusercontent.com/91750491/233732369-cf02464c-2d33-4a50-9d34-68fbcdfb4782.png">
 <img width="225" alt="yellow-block" src="https://user-images.githubusercontent.com/91750491/226228018-72df3af5-8ff8-449b-b60e-c34b78b743b7.png">
 <img width="200" alt="blue-block" src="https://user-images.githubusercontent.com/91750491/226228100-53ca9a31-ad6a-44d1-a132-48279de571a2.png">
 <img width="200" alt="green-block" src="https://user-images.githubusercontent.com/91750491/226228179-f9c36733-16e8-4fa9-95b0-e597de865f15.png">
