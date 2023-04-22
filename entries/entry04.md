@@ -19,7 +19,7 @@ loadSound("soundName", "link to the sound")
 ```
 I plan to use `loadSound()` for many things in the game after my MVP. I could have the game make a sound whenever the user presses the space button, or a sound whenever the user sprite touched the door to the next level.
 
-I'm in stage 3 of the Engineering Design Process (EDP), which is brainstorming possible solutions. Using what my partner and I learned in the past months about Kaboom, we were now able to use it to brainstorm and create our platformer game.
+I'm in stages 3 and 4 of the Engineering Design Process (EDP), which is brainstorming possible solutions and planning the most promising solution. Using what my partner and I learned in the past months about Kaboom, we were now able to use it to brainstorm and create our platformer game to the best of our abilities.
 
 Skills that I have developed in this blog are *collaboration* and *time management*. My partner and I collaborated a ton in working on the sprite, coming up with the theme and what the sprites were going to be. It was extremely important in this blog that my partner and I manage our time well because we had to accomplish our MVP by the due date. For our MVP plan, we planned everything accordingly and with detailed dates to ensure that we wouldn't be procrastinating till the last minute.
 
