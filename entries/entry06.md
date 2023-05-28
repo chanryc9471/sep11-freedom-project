@@ -1,5 +1,5 @@
 # Entry 6
-##### 6/5/23
+##  6/5/23
 
 ### expo elevator pitch takeaways
 * have an instruction scene so that users know the controls (we had to explain what keys to use)
